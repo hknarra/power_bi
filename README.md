@@ -1,3 +1,5 @@
 # power_bi
-## Import CSV file:
+### Import CSV file:
 PBI file (Desktop) →get data →text/csv →select delimiter (if required) →load
+
+PBI →my workspace →new(dashboard/report) →dashboard name →create
